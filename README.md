@@ -6,7 +6,7 @@
 
 3. Queue
 
-4. Tree: BinarySearch Tree, AVL Tree
+4. Tree: BinarySearchTree, AVLTree
 
 5. HashMap
 
