@@ -10,4 +10,4 @@
 
 5. HashMap
 
-6. Heap: MinHeap, MaxHeap.
+6. Heap: MinHeap, MaxHeap
